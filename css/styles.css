@@ -23,7 +23,9 @@ h2 {
 }
 
 blockquote {
-    color:#F4D35E;
+    font-size:2em;
+    font-weight:bold;
+    color:#0D3B66;
 }
 
 table {
@@ -35,15 +37,20 @@ header {
 }
 
 nav {
-
+    width:100%;
 }
 
 ul {
-
+    text-align:center;
 }
 
 li {
+    font-size:1.5em;
+}
 
+ul li {
+    display:inline-block;
+    padding:8px 7%;    
 }
 
 a {
@@ -51,7 +58,7 @@ a {
 }
 
 a:hover {
-
+    color:#F4D35E;
 }
 
 
