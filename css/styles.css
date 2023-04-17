@@ -11,19 +11,19 @@ F4D35E - Gold
 
 
 body {
-
+    background-color:#FAF0CA;
 }
 
 h1 {
-
+    color:#F4D35E;
 }
 
 h2 {
-
+    color:#F4D35E;
 }
 
 blockquote {
-
+    color:#F4D35E;
 }
 
 table {
@@ -47,7 +47,7 @@ li {
 }
 
 a {
-
+    color:#0D3B66;
 }
 
 a:hover {
