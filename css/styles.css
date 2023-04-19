@@ -75,10 +75,15 @@ main {
     background-color:#0D3B66;
 }
 
+.maincontact {
+    height:1000px;
+}
+
 .container {
     width:80%;
-    
 }
+
+
 
 article {
     font-size:2.5em;
@@ -87,6 +92,10 @@ article {
 
 p {
     padding: 120px 20%;
+}
+
+.pcontact {
+    padding:12px 2%;
 }
 
 aside {
