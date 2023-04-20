@@ -88,18 +88,15 @@ figcaption {
 }
 
 .company1 {
-    float:right;
-    padding:50px 0;
+    
 }
 
 .company2 {
     background-color:#F4D35E;
-    padding:50px 0;
+    float:right;
 }
 
 .company3 {
-    float:right;
-    padding:50px 0;
 }
 
 .maincontact {
