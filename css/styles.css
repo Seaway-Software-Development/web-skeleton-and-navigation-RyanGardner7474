@@ -38,7 +38,6 @@ table {
 }
 
 header {
-    
     height:800px;
     background-color:#FAF0CA;
 }
@@ -141,6 +140,14 @@ footer {
 
 form {
     background-color:#FAF0CA;
+    padding:10px;
+}
+
+.button {
+    float:right;
+    padding-right:80px;
+    width:80px;
+    height:30px;
 }
 
 .fnav {
