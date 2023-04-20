@@ -92,21 +92,21 @@ main {
 
 .box1 {
     background-color:#FAF0CA;
-    background-image: url(images/box1img.jpg);
+    background-image: url(../images/box1img.jpg);
     font-size:2em;
     color:#0D3B66;
 }
 
 .box2 {
     background-color:#F4D35E;
-    background-image: url(images/box2img.jpg);
+    background-image: url(../images/box2img.jpg);
     font-size:2em;
     color:#0D3B66;
 }
 
 .box3 {
     background-color:#FAF0CA;
-    background-image: url(images/box3img.jpg);
+    background-image: url(../images/box3img.jpg);
     font-size:2em;
     color:#0D3B66;
 }
