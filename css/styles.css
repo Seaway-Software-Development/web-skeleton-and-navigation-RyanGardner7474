@@ -92,7 +92,7 @@ figcaption {
 }
 
 .company3 {
-    float:clear;
+    float:none;
 }
 
 .maincontact {
