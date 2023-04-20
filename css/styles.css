@@ -88,11 +88,13 @@ figcaption {
 }
 
 .company2 {
+    background-color:#F4D35E;
     padding-top: 50px;
     float:right;
 }
 
 .company3 {
+    background-color:#FAF0CA;
     margin-top: 50px;
     float:none;
 }
