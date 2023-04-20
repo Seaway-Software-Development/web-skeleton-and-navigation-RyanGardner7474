@@ -81,6 +81,12 @@ main {
                          "work4 work5 work6";
 }
 
+figcaption {
+    font-size:1.4em;
+    font-weight: bold;
+    color:#F4D35E;
+}
+
 .maincontact {
     height:1000px;
 }
