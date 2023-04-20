@@ -79,6 +79,39 @@ main {
     height:1000px;
 }
 
+.servicemain {
+    height:1000px;
+    padding-bottom:30px;
+}
+
+.coll {
+    display:grid;
+    height:1000px;
+    grid-template-columns: 33.3% 33.3% 33.4%;
+    grid-template-rows:100%;
+}
+
+.box1 {
+    background-color:#FAF0CA;
+    background-image: url(images/box1img.jpg);
+    font-size:2em;
+    color:#0D3B66;
+}
+
+.box2 {
+    background-color:#F4D35E;
+    background-image: url(images/box2img.jpg);
+    font-size:2em;
+    color:#0D3B66;
+}
+
+.box3 {
+    background-color:#FAF0CA;
+    background-image: url(images/box3img.jpg);
+    font-size:2em;
+    color:#0D3B66;
+}
+
 .container {
     width:80%;
 }
