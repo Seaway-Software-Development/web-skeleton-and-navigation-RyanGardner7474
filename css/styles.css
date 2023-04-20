@@ -91,6 +91,10 @@ figcaption {
     float:right;
 }
 
+.company3 {
+    float:clear;
+}
+
 .maincontact {
     height:1000px;
 }
