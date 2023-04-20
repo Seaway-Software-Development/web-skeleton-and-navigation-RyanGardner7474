@@ -75,6 +75,8 @@ main {
 
 .workgrid {
     display:grid;
+    width:100%;
+    grid-template-columns:33% 33% 33%;
     grid-template-areas: "work1 work2 work3"
                          "work4 work5 work6";
 }
