@@ -87,6 +87,10 @@ figcaption {
     color:#F4D35E;
 }
 
+.right {
+    float:right;
+}
+
 .maincontact {
     height:1000px;
 }
