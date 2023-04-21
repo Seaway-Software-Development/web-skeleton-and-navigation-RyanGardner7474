@@ -146,6 +146,10 @@ figcaption {
     width:80%;
 }
 
+.yellbox {
+    background-color:#FAF0CA;
+}
+
 article {
     font-size:2.5em;
     padding: 120px 20%;
