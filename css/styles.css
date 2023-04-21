@@ -187,6 +187,7 @@ form {
 
 .fnav {
     background-color:#FAF0CA;
+    float:clear;
 }
 
 .copyright {
