@@ -179,8 +179,7 @@ form {
 }
 
 .button {
-    float:right;
-    padding-right:80px;
+    padding-left:80px;
     width:80px;
     height:30px;
 }
